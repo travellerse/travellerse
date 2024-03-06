@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=travellerse)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=travellerse&count_private=true)
